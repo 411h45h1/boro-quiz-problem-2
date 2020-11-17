@@ -1,0 +1,30 @@
+1)
+assuming the site is made with react, using PureComponent, remembering to use a key when using .map(), optimizing imports, 
+avoiding inline functions and using a CDN like Netlify are a few ways you can greatly reduce site load times.
+
+2)
+For a large collaborative project my git workflow would look like this
+
+dev > quality assurance > pre-production > production
+
+3)
+I'm very familiar, the app i published recently was built with expo.
+
+4)
+VsCode
+
+5)
+a. 2.5 years
+b. 2 years
+c. 1.5 years
+d. 1.5 years
+e. 1.5 years
+f. 1 years
+g. 0 (in the process of learning)
+h. 0 
+i. 2 years 
+j. 0 (I am familiary with cloud based systems, I've been using GCP for about a year now )
+k. 0 
+
+6) For the first problem I would require the test taker to add a global theme switch, every react 
+developer should know how to. Overall it was a good test
